@@ -30,9 +30,6 @@ int main()
     j--;
   }
   
-  
-  
-
 return 0;
 }
 void count(char* s,int d[])
